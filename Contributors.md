@@ -68,6 +68,7 @@
 - [Jainendra Dwivedi](https://github.com/JainendraDwivedi)
 - [Jonathan Zopf](https://github.com/JonathanZopf)
 - [Kamya](https://github.com/Kamya90)
+- [Ayush Tyagu](https://github.com/ayushCoderJod)
 - [Ashutosh Shisodia](https://github.com/ashutoshshisodia)
 - [Umesh Kumar](https://github.com/Umesh-JNU)
 - [Carlo Tran](https://github.com/medicalanthrax)
